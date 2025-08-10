@@ -1,4 +1,3 @@
-// src/pages/login.tsx
 import React, { useState } from 'react';
 import { useRouter } from 'next/router';
 import Input from '../components/Input';

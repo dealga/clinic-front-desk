@@ -1,5 +1,3 @@
-
-// src/controllers/queue.controller.ts
 import { Controller, Get, Post, Body, Patch, Param, Delete, Query, UseGuards } from '@nestjs/common';
 import { QueueService } from '../services/queue.service';
 import { CreateQueueDto, UpdateQueueDto } from '../dto/queue.dto';

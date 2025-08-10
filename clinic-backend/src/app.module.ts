@@ -8,7 +8,6 @@ import { PatientsModule } from './modules/patients.module';
 import { QueueModule } from './modules/queue.module';
 import { AppointmentsModule } from './modules/appointments.module';
 
-// Import all entities
 import { User } from './entities/user.entity';
 import { Doctor } from './entities/doctor.entity';
 import { Patient } from './entities/patient.entity';

@@ -1,4 +1,3 @@
-// src/components/CreatePatientModal.tsx
 import React, { useState } from 'react';
 import Button from './Button';
 import { patientsService } from '../services/patientsService';

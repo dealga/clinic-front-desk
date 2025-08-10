@@ -1,5 +1,4 @@
-  // src/services/appointmentsService.ts
-  import api from './api';
+ import api from './api';
   import { Appointment } from '../types';
   
   export const appointmentsService = {

@@ -1,4 +1,3 @@
-// src/dto/doctor.dto.ts
 import { IsString, IsNotEmpty, IsEnum, IsOptional, IsBoolean } from 'class-validator';
 
 export class CreateDoctorDto {

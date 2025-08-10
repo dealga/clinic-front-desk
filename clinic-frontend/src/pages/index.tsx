@@ -1,4 +1,3 @@
-// src/pages/index.tsx
 import React, { useEffect, useState } from 'react';
 import Layout from '../components/Layout';
 import { queueService } from '../services/queueService';

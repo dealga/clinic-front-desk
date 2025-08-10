@@ -1,4 +1,3 @@
-// src/entities/doctor.entity.ts
 import { Entity, Column, PrimaryGeneratedColumn, CreateDateColumn, UpdateDateColumn, OneToMany } from 'typeorm';
 import { Queue } from './queue.entity';
 import { Appointment } from './appointment.entity';

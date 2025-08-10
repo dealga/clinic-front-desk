@@ -1,4 +1,3 @@
-// src/controllers/appointments.controller.ts
 import { Controller, Get, Post, Body, Patch, Param, Delete, Query, UseGuards } from '@nestjs/common';
 import { AppointmentsService } from '../services/appointments.service';
 import { CreateAppointmentDto, UpdateAppointmentDto } from '../dto/appointment.dto';

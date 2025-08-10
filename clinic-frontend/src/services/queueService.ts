@@ -1,6 +1,5 @@
   
-  // src/services/queueService.ts
-  import api from './api';
+import api from './api';
   import { QueueEntry } from '../types';
   
   export const queueService = {

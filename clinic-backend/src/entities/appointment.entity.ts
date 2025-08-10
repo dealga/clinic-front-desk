@@ -1,5 +1,3 @@
-
-// src/entities/appointment.entity.ts
 import { Entity, Column, PrimaryGeneratedColumn, CreateDateColumn, UpdateDateColumn, ManyToOne, JoinColumn } from 'typeorm';
 import { Patient } from './patient.entity';
 import { Doctor } from './doctor.entity';

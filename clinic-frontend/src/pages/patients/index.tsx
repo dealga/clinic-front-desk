@@ -1,4 +1,3 @@
-// src/pages/patients/index.tsx
 import React, { useEffect, useState } from 'react';
 import Layout from '../../components/Layout';
 import Button from '../../components/Button';

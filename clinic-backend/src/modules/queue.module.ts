@@ -1,4 +1,3 @@
-// src/modules/queue.module.ts
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { QueueService } from '../services/queue.service';

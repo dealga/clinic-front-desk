@@ -1,4 +1,3 @@
-// src/modules/appointments.module.ts
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { AppointmentsService } from '../services/appointments.service';

@@ -1,5 +1,3 @@
-
-// src/dto/appointment.dto.ts
 import { IsNumber, IsDateString, IsString, IsOptional, IsEnum } from 'class-validator';
 
 export class CreateAppointmentDto {

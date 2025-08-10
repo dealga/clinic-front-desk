@@ -1,5 +1,3 @@
-
-// src/dto/queue.dto.ts
 import { IsNumber, IsOptional, IsEnum, IsString } from 'class-validator';
 
 export class CreateQueueDto {

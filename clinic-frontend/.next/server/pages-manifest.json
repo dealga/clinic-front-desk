@@ -2,10 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/doctors": "pages/doctors.js",
-  "/patients": "pages/patients.js",
-  "/queue": "pages/queue.js",
-  "/appointments": "pages/appointments.js",
-  "/": "pages/index.js",
   "/login": "pages/login.js"
 }

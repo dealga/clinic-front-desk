@@ -1,4 +1,3 @@
-// src/main.ts
 import { NestFactory } from '@nestjs/core';
 import { ValidationPipe } from '@nestjs/common';
 import { AppModule } from './app.module';
@@ -25,13 +24,3 @@ async function bootstrap() {
 }
 bootstrap();
 
-// // .env (example)
-// DB_HOST=localhost
-// DB_PORT=3306
-// DB_USERNAME=root
-// DB_PASSWORD=password
-// DB_DATABASE=clinic_frontend_system
-// JWT_SECRET=your-secret-key-here
-// NODE_ENV=development
-// FRONTEND_URL=http://localhost:3000
-// PORT=3001
